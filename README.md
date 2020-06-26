@@ -1,4 +1,4 @@
-# Tarea3
+# Tarea 3
 Repositorio donde se encuetra la solución de la Tarea 03.
 *Realizado por:* **Jean Carlos Alvarado Brenes**
 
