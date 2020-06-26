@@ -7,4 +7,4 @@ Esta es la lista de archivos del repositorio y su contenido.
 
 | Nombre | Contenido |
 | ------ | ---- |
-| `Tarea03`  | Solución de la Tarea 03   |
+| `Tarea03.ipynb`  | Solución de la Tarea 03   |
