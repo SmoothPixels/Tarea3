@@ -14,13 +14,18 @@ Repositorio donde se encuentra la solución de la Tarea 03
 ---
 ---
 
+# Tarea 03: Frecuencia relativa de dos variables aleatorias
+
+*Realizado por:* **Jean Carlos Alvarado Brenes**
+
+## 1) Definición clásica de la probabilidad
 
 
-'''
-1. (25 %) A partir de los datos, encontrar
+(25 %) A partir de los datos, encontrar
 la mejor curva de ajuste (modelo probabilístico) 
-para las funciones de densidad marginales de X y Y
-'''
+para las funciones de densidad marginales de X y Y [1]
+
+
 
 #Se importan las librerías a utilizar
 import matplotlib.pyplot as plt
