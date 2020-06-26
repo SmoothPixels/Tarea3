@@ -1,6 +1,21 @@
 # Tarea3
 Repositorio donde se encuentra la solución de la Tarea 03
 
+---
+
+# Universidad de Costa Rica
+
+### Facultad de Ingeniería
+
+### Escuela de Ingeniería Eléctrica
+
+#### IE0405 - Modelos Probabilísticos de Señales y Sistemas
+
+---
+---
+
+
+
 '''
 1. (25 %) A partir de los datos, encontrar
 la mejor curva de ajuste (modelo probabilístico) 
