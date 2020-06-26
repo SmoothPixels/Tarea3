@@ -1,5 +1,3 @@
-# Tarea3
-Repositorio donde se encuentra la solución de la Tarea 03
 
 ---
 
@@ -18,12 +16,9 @@ Repositorio donde se encuentra la solución de la Tarea 03
 
 *Realizado por:* **Jean Carlos Alvarado Brenes**
 
-## 1) Definición clásica de la probabilidad
+## 1) (25 %) A partir de los datos, encontrar la mejor curva de ajuste (modelo probabilístico) para las funciones de densidad marginales de X y YDefinición clásica de la probabilidad
 
 
-(25 %) A partir de los datos, encontrar
-la mejor curva de ajuste (modelo probabilístico) 
-para las funciones de densidad marginales de X y Y [1]
 
 
 
