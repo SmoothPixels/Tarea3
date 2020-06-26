@@ -16,9 +16,7 @@
 
 *Realizado por:* **Jean Carlos Alvarado Brenes**
 
-## 1) (25 %) A partir de los datos, encontrar la mejor curva de ajuste (modelo probabilístico) para las funciones de densidad marginales de X y YDefinición clásica de la probabilidad
-
-
+## 1) (25 %) A partir de los datos, encontrar la mejor curva de ajuste (modelo probabilístico) para las funciones de densidad marginales de X y Y
 
 
 
