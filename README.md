@@ -11,7 +11,7 @@
 ---
 ---
 
-### Tarea 3
+### Tarea 03
 Repositorio donde se encuentra la solución de la Tarea 03.\
 *Realizado por:* **Jean Carlos Alvarado Brenes**
 
